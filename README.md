@@ -7,5 +7,5 @@ Stackoverflow Job scrapper
 ③ Able to download the result into CSV files<br/>
 
 <img src="img_readme.png"
-     width="500"
+     width=700
      style="float: left; margin-right: 10px;" />
